@@ -1,0 +1,1 @@
+export const lastWord = (string) => string.substring(string.trim().lastIndexOf(" ") + 1)
